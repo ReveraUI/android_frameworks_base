@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- PropImitationHooks -->
+    <java-symbol type="string" name="config_certifiedFingerprint" />
+    <java-symbol type="string" name="config_stockFingerprint" />
+
+</resources>
